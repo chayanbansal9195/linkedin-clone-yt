@@ -1,3 +1,5 @@
 1. develope
 2. firebase firestore db
 3. deploy firebase 
+
+deploy link: https://linkedin-clone-yt-ee506.web.app/
